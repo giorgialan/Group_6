@@ -5,4 +5,4 @@
 | Marta Barbisan | N | marta.barbisan@student-cs.fr |
 | Giovanni Callegaro | N | giovanniantonio.callegaro@student-cs.fr |
 | Ellen Olsson | Y | ellen.olsson@student-cs.fr |
-
+| Giorgia Lanciotti | N | giorgia.lanciotti@student-cs.fr |
